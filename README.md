@@ -22,7 +22,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/tf_ddrl_plus_plus.git
+https://github.com/vedasri663-svg/tf_ddrl_plus_plus
 cd tf_ddrl_plus_plus
 
 
